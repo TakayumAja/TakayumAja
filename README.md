@@ -9,7 +9,7 @@ I'm a Front End Developer. I'm from Indonesia and currently studying at the Info
 * 🤝  I'm open to collaborating on Front End Web Developer
 
 ### Workspace
-
+![Pop!OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 ![CPU](https://img.shields.io/badge/AMD%20Ryzen_5_4500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![Laptop](https://img.shields.io/badge/Lenovo%20Ideapad%20Slim%203-FF0000?style=for-the-badge&logo=lenovo&logoColor=white)
